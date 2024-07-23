@@ -1,0 +1,8 @@
+<resources>
+    <string name="Q2">Assignment 1</string>
+    <string-array name="exercise_goals_array">
+        <item>PushUp</item>
+        <item>Squats</item>
+        <item>PullUps</item>
+    </string-array>
+</resources>
